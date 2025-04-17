@@ -58,10 +58,7 @@ git clone https://github.com/your-username/blinkit-powerbi-dashboard.git
 
 ## 🎯 How to Use the Dashboard
 🔹 **Home Button** - Click to return to the **main dashboard view**.  
-🔹 **Refresh Button** - Updates data automatically when new records are added.  
-🔹 **Filter Sales by Category & Location** - Use slicers to explore **item types, store sizes, and sales trends**.  
-🔹 **Download Reports** - Click the **Download Icon** to export insights as an Excel or PDF report.  
-
+🔹 **Refresh Button** - Updates data automatically when new records are added. 
 ---
 
 ## 🛠️ Future Enhancements
